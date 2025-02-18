@@ -24,3 +24,5 @@ This repository contains the representative data, codes, and trained models for 
 1. Sukh Sagar Shukla
 2. Dhanya J
 3. Devansh Banga
+4. Ricky L Chhangte
+5. STG Raghukanth
