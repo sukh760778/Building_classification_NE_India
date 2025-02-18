@@ -10,7 +10,7 @@ Code/: Jupyter notebooks for data processing and Model training.
 Model/: Weights of the best-trained model (ready to use) to classify the images.
 
 ## Different classes of buildings which the present model classifies:
-| ![Building Classification]([path_to_image1.jpg](https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/RCC/103.jpg)) | ![Image 2](path_to_image2.jpg) |
+| ![Image 1]((https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/RCC/103.jpg)) | ![Image 2](path_to_image2.jpg) |
 |--------------------------------|--------------------------------|
 | **Caption 1**                 | **Caption 2**                 |
 | ![Image 3](path_to_image3.jpg) | ![Image 4](path_to_image4.jpg) |
