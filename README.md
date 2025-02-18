@@ -11,7 +11,7 @@ Model/: Weights of the best-trained model (ready to use) to classify the images.
 
 # Different classes of buildings which the present model classifies:
 
-# RCC: ![Building_classification_NE_India](Data/RCC/1.jpg) 
+# RCC: ![Building_classification_NE_India](Data/RCC/103.JPG) 
 
 # Note: This repository shares the data for the study "Machine Learning-based Rapid Building Classification Using Street View Images and Subsequent Risk Assessment" (Under Review).
 
