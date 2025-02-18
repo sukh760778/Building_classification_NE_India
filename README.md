@@ -18,7 +18,7 @@ This repository contains the representative data, codes, and trained models for 
 | **Assam Type (Ikra)**                 | **Non Buildings**                 |
 
 
-### Note: This repository shares the data for the study "Machine Learning-based Rapid Building Classification Using Street View Images and Subsequent Risk Assessment" (Under Review).
+##### Note: This repository shares the data for the study "Machine Learning-based Rapid Building Classification Using Street View Images and Subsequent Risk Assessment" (Under Review).
 
 ### Authors
 1. Sukh Sagar Shukla
