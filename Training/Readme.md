@@ -26,15 +26,6 @@ Requirements
 	`jupyter notebook `
 -Open the respective notebook and execute the cells in order.
 
-Misc.
-We downloaded our images from Street view Download 360 (pro version). We ticked:
-- Dummy Make and Model to be recognized as 360 image
-- Panaroma ID
-- Copyright
-- Software
-- Save metadata into a JSON file
-- Added %lat% and %lng% into the name of the saved image
-
 Author
 - Sukh Sagar Shukla
 - Dhanya J.
