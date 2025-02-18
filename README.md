@@ -11,9 +11,9 @@ Model/: Weights of the best-trained model (ready to use) to classify the images.
 
 ## Different classes of buildings which the present model classifies:
 
-| ![Image 1](https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/RCC/103.jpg) | ![Image 2](https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/RCC/103.jpg) |
+| ![Image 1](https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/RCC/103.jpg) | ![Image 2](https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Assam_Type/121.jpg) |
 |--------------------------------|--------------------------------|
-| **Caption 1**                 | **Caption 2**                 |
+| **RCC**                 | **Assam Type**                 |
 | ![Image 3](https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/RCC/103.jpg) | ![Image 4](https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/RCC/103.jpg) |
 | **Caption 3**                 | **Caption 4**                 |
 
