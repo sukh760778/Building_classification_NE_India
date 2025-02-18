@@ -10,8 +10,7 @@ Code/: Jupyter notebooks for data processing and Model training.
 Model/: Weights of the best-trained model (ready to use) to classify the images.
 
 ## Different classes of buildings which the present model classifies:
-         <img src="Data/RCC/103.JPG" alt="Building Classification" width="400"/>  
-## RCC: ![Building Classification](https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/RCC/103.jpg)
+         <img src=" ![Building Classification](https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/RCC/103.jpg)" alt="Building Classification" width="400"/>  
 
 ### Note: This repository shares the data for the study "Machine Learning-based Rapid Building Classification Using Street View Images and Subsequent Risk Assessment" (Under Review).
 
